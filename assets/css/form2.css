@@ -1,0 +1,25 @@
+/*#uname{
+	border: 1px solid #000;
+}*/
+#password{
+	outline: 3px solid #000;
+}
+input{
+	margin: 3px;
+}
+input:focus{
+	border: 3px dotted #f00;
+}
+a:active{
+	color: red;
+}
+
+}
+body
+{
+margin: auto;
+	padding: 0;
+	background: url(assets/images/momo.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
